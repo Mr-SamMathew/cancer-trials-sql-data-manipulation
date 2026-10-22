@@ -1,7 +1,7 @@
 # Clinical Trial Data Manipulation (SQL)
 
 ## Project Overview
-This repository contains an end-to-end SQL data manipulation project evaluating **10,000 cancer clinical trials** (2020–2024). The goal of this analysis is to address real-world business requirements across Clinical Operations, Strategic Finance, and Oncology R&D teams using standard T-SQL, aggregate analysis, and advanced window functions.
+This repository contains an end-to-end SQL data manipulation project evaluating **10,000 cancer clinical trials** (2020–2024). The goal of this analysis is to address real-world business requirements across Clinical Operations, Strategic Finance, and Oncology R&D teams using the standard SQL Server, aggregate analysis, and advanced window functions.
 
 ---
 
